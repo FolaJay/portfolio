@@ -1,6 +1,6 @@
 <template>
   <div>
-    <v-navigation-drawer app floating class="teal lighten-2">
+    <v-navigation-drawer app floating class="teal darken-4">
       <v-list>
         <v-list-item class="px-2">
           <v-list-item-avatar style="height: 100px;min-width: 100px;width: 100px; margin-left:50px;">
