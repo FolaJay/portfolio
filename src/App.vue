@@ -1,6 +1,6 @@
 <template>
   <v-app>
-    <Sidebar />
+    <Sidebar/>
     <v-content>
             <v-container fluid>
                 <v-row class="fill-height">
@@ -30,3 +30,13 @@ export default {
   }),
 };
 </script>
+<style scoped>
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+
+span{
+  color: rgb(0 0 0 / 70%);
+}
+body {
+  font-family: 'Roboto', sans-serif !important;
+}
+</style>

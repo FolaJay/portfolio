@@ -17,96 +17,166 @@
         <v-container>
           <h2>Biography</h2>
           <div class="bottom-border"></div>
-          <p class="paragraph-text">
-            Professor Richard A. Werner, born in Germany in 1967, holds a First
-            Class Honours B.Sc. in Economics from the London School of Economics
-            and a doctorate in Economics from the University of Oxford. He has
-            also studied at the University of Tokyo. 
+          <p class="paragraph-text text-justify">
+            Prof. (Mrs) Oluwatooyin Faramade OSUNDAHUNSI (Nee Adesiji) was born
+            in the late 1960s in Oyo, Oyo State, Nigeria to the family of Hon.
+            Sunday Adegoke Adesiji and Late (Mrs) Felicia Oyebisi Adesiji. She
+            attended St Andrew’s College Demonstration School and Abiodun Atiba
+            Memorial Institute, Oyo between (1974 -1980) and (1980-1985) for her
+            primary and secondary education respectively. She studied Food
+            Science and Technology at the University of Nigeria, Nsukka and
+            graduated with a B. Sc. (Hon.) Second Class (Upper Division) in
+            1991. After her National Youth Service Corps (NYSC) with the
+            Nigerian Bottling Company, she proceeded to the University of
+            Ibadan. She had M.Sc. in 1994 while Ph.D degree in Food Technology
+            was awarded in 1999.
           </p>
-            <p class="paragraph-text">
-              Richard is a Member of
-            Linacre College, Oxford, and is a university professor in banking
-            and finance. He is also a founding chair of Local First, a community
-            interest company establishing not-for-profit community banks in the
-            UK (including the Hampshire Community Bank). His recommended charity
-            is the Association for Research on Banking and the Economy
-            (www.arbe.org.uk). You can follow him on Twitter @scientificecon .
-            </p>
-            <p class="paragraph-text">
-            Until February 2019, Richard was for many years a member of the ECB
-            Shadow Council. In 2008 he founded, and has been director of the
-            Centre for Banking, Finance and Sustainable Development – the first
-            research centre to focus on the link between the financial sector
-            and sustainability issues. Between 2009 and 2012 for five semesters
-            he was a full-time professor of monetary, macro and development
-            economics (W3) at Goethe-University Frankfurt. Until July 2018 he
-            was Professor of International Banking at the University of
-            Southampton (having joined in April 2004). From 1997 to 2004 he was
-            assistant professor in economics and finance at Sophia University,
-            Tokyo (one of Japan’s top 3 private universities). 
-            </p>
-            <p class="paragraph-text">
-            He has also
-            taught development finance and sustainability at Moscow State
-            University, as well as a range of economics, banking and finance
-            courses at a number of other universities. His work experience
-            includes over four years as highly-rated chief economist at Jardine
-            Fleming Securities (Asia) Ltd., a stint as Senior Managing Director
-            at Bear Stearns Asset Management Ltd., many years managing global
-            macro funds, several years as senior consultant to the Asian
-            Development Bank and periods as visiting scholar and visiting
-            researcher at the Japanese Ministry of Finance and the Bank of
-            Japan, respectively. He was also the first Shimomura Fellow at the
-            Development Bank of Japan. In 1992, while European Commission Fellow
-            at Oxford University’s Institute for Economics and Statistics,
-            Richard proposed the disaggregation of credit and its impact on
-            asset markets and growth with his ‘Quantity Theory of Credit’ (see
-            here). 
-            </p>
-            <p class="paragraph-text">
-            In 1995, he advanced the concept of ‘quantitative easing’ in
-            Japan (defined as an expansion in credit creation, published in the
-            leading daily newspaper, the Nikkei, on 2 September 1995). His book
-            ‘Princes of the Yen’ was a No. 1 bestseller in Japan, beating Harry
-            Potter for six weeks. In its English edition of 2003, he warned of
-            the coming creation of credit bubbles and banking crises in the
-            eurozone. So did his 2005 book ‘New Paradigm in Macroeconomics’
-            (Palgrave Macmillan). In 2014, Richard published the first empirical
-            proof of the fact that banks create money when they grant loans. The
-            World Economic Forum, Davos, selected him as “Global Leader for
-            Tomorrow” in 2003.
+          <p class="paragraph-text text-justify">
+            In the course of her post-graduate research, she was awarded the
+            Federal Government of Nigeria Post-graduate scholarship for
+            1993/1994.She had her postdoctoral training under UNESCO/ISRAEL
+            Fellowship in Science and Technology at the Department of Food
+            Engineering and Biotechnology, Technion-Israel Institute of
+            Technology, Haifa, Israel (2001/2002). A recipient of several
+            prestigious international research fellowship including: The
+            International Foundation for Science (IFS) Research Grant, Sweden in
+            2003/2004 for equipment. Alexander von Humboldt Research Fellowship
+            (AvH) carried out at the Institute of Technical Biocatalysis,
+            Technical University of Hamburg-Harburg, Germany between 2009/2010
+            and 2012.Third World Academy of Science-ROSSA, Kenya, African Women
+            in Agricultural Research and Development (AWARD) Kenya,
+            DIES–HRK-German Academic Exchange Services (DAAD), Germany, African
+            Nutrition Leadership Training Programme, (ANLP) South Africa, with
+            Netherland Fellowship Programme (NFP) of Wageningen University,
+            Netherlands
+          </p>
+          <p class="paragraph-text text-justify">
+            Prof. (Mrs) Osundahunsi started her teaching career at the Federal
+            University of Technology Akure (FUTA), as an Assistant lecturer on
+            18th November, 1996 and was upgraded to Lecturer II in February,
+            1999. She earned elevation by grace and through dint of hard work to
+            the rank to a Reader on 1st October, 2007 and Professor on 1st
+            October, 2010 in the Department of Food Science and Technology. She
+            has authored/co-authored more than sixty scientific publications and
+            several proceedings in both local and international peer-reviewed
+            journals with high impact factor. She has edited a Book. Prof.
+            (Mrs.) Osundahunsi has supervised and graduated twenty-two Masters,
+            nine Ph.D students and several undergraduate students with many
+            still carrying out research under her supervision. Apart from
+            teaching and research, Prof. Osundahunsi held and still holding some
+            pioneering and administrative responsibilities in the University
+            including member of Senate (2002-2006) and chairperson of several
+            committees. She served from 2013 to 2016 as the Head of Department,
+            FST and was awarded Best HOD of the Year 2014 in FUTA. She holds a
+            certificate in Modern Higher Education Management and Leadership
+            from the University of Applied Sciences, Osnabrueck, Germany. In
+            2018 she served as a Convener of an International Conference –
+            Alexander von Humboldt Stiftung, Germany held in Nigeria which
+            attracted participants from Germany, United Kingdom, Canada and
+            other African countries. She also had Alexander von Humboldt
+            Research Fellowship/Stiftung (AvH) carried out at the Institute of
+            for Food Chemistry, University of Hohenheim, Germany in 2019 with a
+            PhD student accompanied for the research. She is a member of the
+            University Governing Council of the Federal University of
+            Technology, Akure, Nigeria.FUTA
+          </p>
+          <p class="paragraph-text text-justify">
+            Prof. Oluwatooyin Osundahunsi served as a reviewer to several
+            national and international journals. She is currently an External
+            Examiner and Assessor to various Universities like the University of
+            Ibadan, Obafemi Awolowo University, Ile-Ife, Federal University of
+            Agriculture Abeokuta, Ladoke Akintola University, Ogbomoso and
+            Wesley University Ondo. She served as a mentor at the African Women
+            in Agricultural Research and Development (AWARD) Kenya. Prof. (Mrs.)
+            Osundahunsi served as Rapporteur and LOC Chairperson at Annual
+            Nigerian Institute of Food Science and Technology (NIFST) conference
+            and half-yearly conference of the Western Chapter. She was the
+            treasurer of the Chapter and currently a reviewer of NIFOJ. Prof.
+            (Mrs.) Osundahunsi is a Fellow of the NIFST, member of Institute of
+            Food Technologist (IFT) USA, the Institute of Public Analysts
+            (IPAN), American Scientific Institute and the Organization of Women
+            in Science for the Developing World (OWSD). Committed to God’s
+            vineyard and services, she served as the Sunday School Provincial
+            Co-ordinator of the Redeemed Christian Church of God (RCCG), Ondo 4
+            and currently as the pioneer Regional Co-ordinator for Sunday
+            School-Region 22.
+          </p>
+          <p class="paragraph-text text-justify">
+            Prof. (Mrs.) Osundahunsi is married to Dr. Rufus Olatunde
+            Osundahunsi and are both blessed with children (a set of twins
+            inclusive). She is a remarkable lady with a pleasant
+            personality, good character and a high sense of integrity. She is
+            admired by many and has great interpersonal relationships.
           </p>
         </v-container>
       </div>
-      <v-container>
-        <v-row>
-          <v-col cols="12" lg="6">
-            <div class="section4-content">
-              <h2>Education & Training</h2>
-              <div class="bottom-border"></div>
-              <h3>
-                To ensure clients full satisfaction and positive feedback as we
-                deliver services that is beyond expectation and create a long
-                term loyal relationship by consistently providing outstanding
-                services.
-              </h3>
-            </div>
-          </v-col>
-         <v-col cols="12" lg="6">
-            <div class="section4-content">
-              <h2>Education & Training</h2>
-              <div class="bottom-border"></div>
-              <h3>
-                To ensure clients full satisfaction and positive feedback as we
-                deliver services that is beyond expectation and create a long
-                term loyal relationship by consistently providing outstanding
-                services.
-              </h3>
-            </div>
-          </v-col>
-        </v-row>
-      </v-container>
-      <v-container class="section5">
+      <div class="section3">
+        <v-container>
+          <v-row>
+            <v-col cols="12" lg="6">
+              <div class="section3-content">
+                <h4>Education & Training</h4>
+                <div class="bottom-border"></div>
+                <v-list-item two-line>
+                    <v-list-item-content class="list-class">
+                      <v-list-item-title>Tertiary Education</v-list-item-title>
+                      <v-list-item-title>1994 – 1999</v-list-item-title>
+                      <v-list-item-subtitle>University of Ibadan, Ibadan.</v-list-item-subtitle> 
+                      <v-list-item-title>1992 – 1994</v-list-item-title>
+                      <v-list-item-subtitle>University of Ibadan, Ibadan.</v-list-item-subtitle> 
+                      <v-list-item-title>1986 – 1991</v-list-item-title>
+                      <v-list-item-subtitle> University of Nigeria, Nsukka.</v-list-item-subtitle> 
+                      <v-list-item-title>2001 – 2002</v-list-item-title>
+                      <v-list-item-subtitle>Technion-Israel Inst. of Tech., Haifa, Israel.</v-list-item-subtitle> 
+                      <v-list-item-title>Aug. 2009</v-list-item-title>
+                      <v-list-item-subtitle>Goethe Instituet, Berlin, Germany.</v-list-item-subtitle> 
+                      <v-list-item-title>2009 – 2010</v-list-item-title>
+                      <v-list-item-subtitle>Technische Universitaet, Hamburg – Harburg, Germany.</v-list-item-subtitle> 
+                      <v-list-item-title>Feb 2012 - July 2012 </v-list-item-title>
+                      <v-list-item-subtitle>Technische Universitaet, Hamburg – Harburg, Germany.</v-list-item-subtitle> 
+                      <v-list-item-title>Sept. 2019-Feb. 2020</v-list-item-title>
+                      <v-list-item-subtitle>Universitaet Hohenheim, Stuttgart, Germany.</v-list-item-subtitle>
+                    </v-list-item-content>
+                </v-list-item>
+              </div>
+            </v-col>
+            <v-col cols="12" lg="6">
+              <div class="section3-content">
+                <h4>Academic Positions</h4>
+                <div class="bottom-border"></div>
+                <v-card>
+                  <v-card-text>
+                    <h5>
+                      Ph.D   Food Technology
+                    </h5>
+                    <v-divider></v-divider>
+                    <h5>1999</h5>
+                  </v-card-text>
+                </v-card>
+                <v-card>
+                  <v-card-text>
+                    <h5>
+                      Ph.D   Food Technology
+                    </h5>
+                    <v-divider></v-divider>
+                    <h5>1999</h5>
+                  </v-card-text>
+                </v-card>
+                <v-card>
+                  <v-card-text>
+                    <h5>
+                      Ph.D   Food Technology
+                    </h5>
+                    <v-divider></v-divider>
+                    <h5>1999</h5>
+                  </v-card-text>
+                </v-card>
+              </div>
+            </v-col>
+          </v-row>
+        </v-container>
+      </div>
+      <v-container class="section4">
         <h2>GALLERY</h2>
         <v-row>
           <v-col v-for="n in 4" :key="n" class="d-flex child-flex" cols="3">
@@ -144,18 +214,17 @@ export default {};
 .wrapper {
   padding: 70px 10%;
 }
-.paragraph-text{
-  padding-top:30px;
-  line-height: 1.428571429;
-  color:#333333;
-  
+.paragraph-text {
+  padding-top: 30px;
+  line-height: 2;
+  color: #333333;
 }
-p{
-      margin: 0 0 10px;
+p {
+  margin: 0 0 10px;
 }
 .section1-content h2,
 .section2 h2,
-.section4-content h2 {
+.section3-content h2 {
   color: #293e40;
   font-size: 35px;
   font-weight: 550;
@@ -163,18 +232,26 @@ p{
   padding-bottom: 10px;
 }
 .section1-content h3,
-.section2 h3,
-.section4-content h3 {
+.section3-content h4 {
   color: #293e40;
   font-size: 20px;
   font-weight: 300;
   padding-top: 10px;
-  padding-bottom: 30px;
+  padding-bottom: 10px;
   text-align: center;
 }
 .section2 {
   padding-top: 60px;
   text-align: left;
+}
+.short-bottom-border {
+  position: relative;
+  margin: 0 auto;
+  width: 50%;
+  height: 3px;
+  background: #f82200;
+  border-left: 23px solid #fcafa3;
+  opacity: 0.9;
 }
 .bottom-border {
   position: relative;
@@ -198,14 +275,13 @@ p{
 }
 /* .custom-btn:hover {
 } */
-.section4-content {
+.section3-content {
   padding-top: 50px;
   padding-bottom: 70px;
   padding-right: 20px;
   padding-left: 20px;
-  text-align: center;
 }
-.section5 h2 {
+.section4 h2 {
   color: #293e40;
   font-size: 45px;
   font-weight: 550;
@@ -213,11 +289,17 @@ p{
   padding-bottom: 10px;
   text-align: center;
 }
-.section5 {
+.section4 {
   margin-bottom: 200px;
 }
+ .list-class, .v-list-item__content > *:not(:last-child) {
+   margin-bottom:10px;
+  }
+  .v-sheet.v-card:not(.v-sheet--outlined) {
+    margin: 20px 0;
+  }
 @media only screen and (max-width: 600px) {
-  .section4-content-img {
+  .section3-content-img {
     width: 90%;
   }
   .section1-content {
@@ -226,7 +308,7 @@ p{
     padding-right: 2px;
     padding-left: 2px;
   }
-  .section4-content h3 {
+  .section3-content h3 {
     padding-bottom: 3px;
   }
 }
