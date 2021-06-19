@@ -3,14 +3,14 @@
         <v-container class="section5">
           <h2>PHOTO SPEAK</h2>
           <v-row>
-              <v-col cols="12" class="text-center">
-              <v-btn class="red lighten-1" >
-              <router-link to="/" class="custom-btn">
-                Back
+              <v-col cols="12" class="text-center custom-btn">
+            <v-btn class="red lighten-1 btn">
+              <router-link to="/Gallery" class="custom-btn-link">
+                View More...
               </router-link>
-              </v-btn>
-            </v-col>
-            <v-col v-for="n in 30" :key="n" class="d-flex child-flex" cols="4">
+            </v-btn>
+          </v-col>
+            <v-col v-for="n in 18" :key="n" class="d-flex child-flex" cols="4">
               <v-img
                 :src="require(`../assets/${n}.jpg`)"
                 aspect-ratio="1"
@@ -55,12 +55,15 @@ export default {
 .section5 {
   margin-bottom: 50px;
 }
-.custom-btn {
-    text-align: center;
+.custom-btn-link{
+  text-align: center;
   padding: 10px 0;
   font-size: 16px;
   text-decoration: none;
-  color:#ffffff;
-  
+  color: #ffffff;
+}
+.custom-btn .btn{
+  border-radius: 5em;
+  padding-top: 10px;
 }
 </style>

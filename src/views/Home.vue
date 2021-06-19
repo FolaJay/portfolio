@@ -115,62 +115,73 @@
           <v-row>
             <v-col cols="12" lg="6">
               <div class="section3-content">
-                <h4>Education & Training</h4>
-                <div class="bottom-border"></div>
-                <v-list-item two-line>
-                    <v-list-item-content class="list-class">
-                      <v-list-item-title>Tertiary Education</v-list-item-title>
-                      <v-list-item-title>1994 – 1999</v-list-item-title>
-                      <v-list-item-subtitle>University of Ibadan, Ibadan.</v-list-item-subtitle> 
-                      <v-list-item-title>1992 – 1994</v-list-item-title>
-                      <v-list-item-subtitle>University of Ibadan, Ibadan.</v-list-item-subtitle> 
-                      <v-list-item-title>1986 – 1991</v-list-item-title>
-                      <v-list-item-subtitle> University of Nigeria, Nsukka.</v-list-item-subtitle> 
-                      <v-list-item-title>2001 – 2002</v-list-item-title>
-                      <v-list-item-subtitle>Technion-Israel Inst. of Tech., Haifa, Israel.</v-list-item-subtitle> 
-                      <v-list-item-title>Aug. 2009</v-list-item-title>
-                      <v-list-item-subtitle>Goethe Instituet, Berlin, Germany.</v-list-item-subtitle> 
-                      <v-list-item-title>2009 – 2010</v-list-item-title>
-                      <v-list-item-subtitle>Technische Universitaet, Hamburg – Harburg, Germany.</v-list-item-subtitle> 
-                      <v-list-item-title>Feb 2012 - July 2012 </v-list-item-title>
-                      <v-list-item-subtitle>Technische Universitaet, Hamburg – Harburg, Germany.</v-list-item-subtitle> 
-                      <v-list-item-title>Sept. 2019-Feb. 2020</v-list-item-title>
-                      <v-list-item-subtitle>Universitaet Hohenheim, Stuttgart, Germany.</v-list-item-subtitle>
-                    </v-list-item-content>
-                </v-list-item>
+                <v-img
+                class="section3-content-img"
+              src="../assets/image3.jpg"
+            >
+            </v-img>
               </div>
             </v-col>
             <v-col cols="12" lg="6">
-              <div class="section3-content">
-                <h4>Academic Positions</h4>
+              <div>
+                <h4>Education & Training</h4>
                 <div class="bottom-border"></div>
-                <v-card>
-                  <v-card-text>
-                    <h5>
-                      Ph.D   Food Technology
-                    </h5>
+                  <div class="section3-content-text">
+                    <h3>
+                        University of Ibadan, Ibadan.
+                    </h3>
+                    <h5>1994 – 1999</h5>
                     <v-divider></v-divider>
-                    <h5>1999</h5>
-                  </v-card-text>
-                </v-card>
-                <v-card>
-                  <v-card-text>
-                    <h5>
-                      Ph.D   Food Technology
-                    </h5>
+                  </div>
+                  <div class="section3-content-text">
+                    <h3>
+                        University of Ibadan, Ibadan.
+                      </h3>
+                    <h5>1992 – 1994</h5>
                     <v-divider></v-divider>
-                    <h5>1999</h5>
-                  </v-card-text>
-                </v-card>
-                <v-card>
-                  <v-card-text>
-                    <h5>
-                      Ph.D   Food Technology
-                    </h5>
+                  </div>
+                  <div class="section3-content-text">
+                    <h3>
+                        University of Nigeria, Nsukka.
+                      </h3>
+                    <h5>1986 – 1991</h5>
                     <v-divider></v-divider>
-                    <h5>1999</h5>
-                  </v-card-text>
-                </v-card>
+                  </div>
+                  <div class="section3-content-text">
+                    <h3>
+                        Technion-Israel Inst. of Tech., Haifa, Israel.
+                      </h3>
+                    <h5>2001 – 2002</h5>
+                    <v-divider></v-divider>
+                  </div>
+                  <div class="section3-content-text">
+                    <h3>
+                        Goethe Instituet, Berlin, Germany.
+                      </h3>
+                    <h5>Aug. 2009</h5>
+                    <v-divider></v-divider>
+                  </div>
+                  <div class="section3-content-text">
+                    <h3>
+                        Technische Universitaet, Hamburg – Harburg, Germany.
+                      </h3>
+                    <h5>2009 – 2010</h5>
+                    <v-divider></v-divider>
+                  </div>
+                  <div class="section3-content-text">
+                    <h3>
+                        Technische Universitaet, Hamburg – Harburg.
+                      </h3>
+                    <h5>Feb 2012 - July 2012</h5>
+                    <v-divider></v-divider>
+                  </div>
+                  <div class="section3-content-text">
+                    <h3>
+                        Universitaet Hohenheim, Stuttgart, Germany.
+                    </h3>
+                    <h5>Sept. 2019-Feb. 2020.</h5>
+                    <v-divider></v-divider>
+                  </div>
               </div>
             </v-col>
           </v-row>
@@ -195,9 +206,9 @@
               </template>
             </v-img>
           </v-col>
-          <v-col cols="12" class="text-center">
-            <v-btn class="red lighten-1">
-              <router-link to="/Gallery" class="custom-btn">
+          <v-col cols="12" class="text-center custom-btn">
+            <v-btn class="red lighten-1 btn">
+              <router-link to="/Gallery" class="custom-btn-link">
                 View More...
               </router-link>
             </v-btn>
@@ -223,16 +234,14 @@ p {
   margin: 0 0 10px;
 }
 .section1-content h2,
-.section2 h2,
-.section3-content h2 {
+.section2 h2{
   color: #293e40;
   font-size: 35px;
   font-weight: 550;
   padding-top: 30px;
   padding-bottom: 10px;
 }
-.section1-content h3,
-.section3-content h4 {
+.section1-content h3{
   color: #293e40;
   font-size: 20px;
   font-weight: 300;
@@ -244,42 +253,48 @@ p {
   padding-top: 60px;
   text-align: left;
 }
-.short-bottom-border {
-  position: relative;
-  margin: 0 auto;
-  width: 50%;
-  height: 3px;
-  background: #f82200;
-  border-left: 23px solid #fcafa3;
-  opacity: 0.9;
-}
+
 .bottom-border {
   position: relative;
   margin: 0 auto;
   width: 100%;
   height: 3px;
-  background: #f82200;
-  border-left: 23px solid #fcafa3;
+  background: #ff6b6b;
+  border-left: 23px solid #556270;
   opacity: 0.9;
 }
 .section2 a {
   text-decoration: none;
   color: #293d40;
 }
-.custom-btn {
+.custom-btn-link{
   text-align: center;
   padding: 10px 0;
   font-size: 16px;
   text-decoration: none;
   color: #ffffff;
 }
-/* .custom-btn:hover {
-} */
-.section3-content {
-  padding-top: 50px;
-  padding-bottom: 70px;
-  padding-right: 20px;
+.custom-btn .btn{
+  border-radius: 5em;
+  padding-top: 10px;
+}
+
+.section3-content-text{
+  padding-bottom: 20px;
   padding-left: 20px;
+  font-weight:lighter;
+}
+.section3-content-img{
+  height:750px;
+}
+.section3-content-text h5{
+  text-align: right;
+  padding: 10px 0;
+  color: #ff6b6b;
+  font-weight:normal;
+}
+.section3-content-text h3{
+  color: #293d40;
 }
 .section4 h2 {
   color: #293e40;
@@ -289,9 +304,7 @@ p {
   padding-bottom: 10px;
   text-align: center;
 }
-.section4 {
-  margin-bottom: 200px;
-}
+
  .list-class, .v-list-item__content > *:not(:last-child) {
    margin-bottom:10px;
   }
