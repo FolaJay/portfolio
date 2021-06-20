@@ -58,12 +58,11 @@ export default {
 .custom-btn-link{
   text-align: center;
   padding: 10px 0;
-  font-size: 16px;
+  font-size: 12px;
   text-decoration: none;
   color: #ffffff;
 }
 .custom-btn .btn{
   border-radius: 5em;
-  padding-top: 10px;
 }
 </style>
