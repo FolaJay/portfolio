@@ -5,12 +5,12 @@
           <v-row>
               <v-col cols="12" class="text-center custom-btn">
             <v-btn class="red lighten-1 btn">
-              <router-link to="/Gallery" class="custom-btn-link">
-                View More...
+              <router-link to="/" class="custom-btn-link">
+                Back
               </router-link>
             </v-btn>
           </v-col>
-            <v-col v-for="n in 18" :key="n" class="d-flex child-flex" cols="4">
+            <v-col v-for="n in 18" :key="n" class="d-flex child-flex" cols="4" md="3">
               <v-img
                 :src="require(`../assets/${n}.jpg`)"
                 aspect-ratio="1"
@@ -63,6 +63,9 @@ export default {
   color: #ffffff;
 }
 .custom-btn .btn{
-  border-radius: 5em;
+  border-radius: 30px;
+}
+.v-btn:not(.v-btn--round).v-size--default{
+  min-width: 15%;
 }
 </style>

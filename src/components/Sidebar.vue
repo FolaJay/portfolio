@@ -1,8 +1,8 @@
 <template>
   <div>
-    <v-card>
-    <v-navigation-drawer app permanent class="blue-grey darken-4">
-      <v-list class="sidebar-wrapper">
+    <v-card> 
+    <v-navigation-drawer app permanent expand-on-hover >
+      <v-list>
         <v-list-item class="px-2">
           <v-list-item-avatar style="height: 100px;min-width: 100px;width: 100px; margin-left:50px;">
             <v-img
@@ -10,14 +10,14 @@
             ></v-img>
           </v-list-item-avatar>
         </v-list-item>
-        <v-list-item link class="v-list-item v-list-item--link theme--light">
-          <v-list-item-content>
-            <v-list-item-title class="title"> Osundahunsi, Oluwatooyin Faramade  </v-list-item-title>
-            <v-list-item-subtitle class="v-list-item__subtitle">
-              Professor, Federal University of Technology, Akure.
-            </v-list-item-subtitle>
-          </v-list-item-content>
-        </v-list-item>
+        <v-list-item link>
+            <v-list-item-content>
+              <v-list-item-title class="text-h6">
+                Osundahunsi, Oluwatooyin Faramade
+              </v-list-item-title>
+              <v-list-item-subtitle>Professor, Federal University of Technology, Akure.</v-list-item-subtitle>
+            </v-list-item-content>
+          </v-list-item>
       </v-list>
 
       <v-divider></v-divider>
@@ -55,7 +55,7 @@ export default {
   }),
   methods:{
     gallerylink: function(){
-      this.$router.push({ path: '/Gallery' })
+      this.$router.push({ path: '/Gallery'})
     },
     home: function(){
       this.$router.push({ path: '/' })
@@ -69,23 +69,5 @@ export default {
 </script>
 
 <style scoped>
-.theme--light.v-list-item:not(.v-list-item--active):not(.v-list-item--disabled) {
-  color: #fff !important;
-}
-.theme--light.v-list-item .v-list-item__subtitle,
-.theme--light.v-list-item .v-list-item__action-text {
-  color: #fff;
-}
-.title {
-  color: #fff;
-  margin: 20px 0 5px 0;
-  padding-bottom:10px;
-}
-.v-list-item__title,
-.v-list-item__subtitle {
-  white-space: normal !important;
-}
-.sidebar-wrapper{
-  padding-top: 50px;
-}
+
 </style>

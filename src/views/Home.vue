@@ -5,8 +5,6 @@
         <v-container>
           <v-row>
             <v-img
-              width="1000"
-              height="711"
               src="https://professorwerner.org/wp-content/uploads/2016/11/richard_werner_speech_4_s.jpg"
             >
             </v-img>
@@ -122,7 +120,7 @@
             </v-img>
               </div>
             </v-col>
-            <v-col cols="12" lg="6">
+            <v-col cols="12" lg="6" >
               <div>
                 <h4>Education & Training</h4>
                 <div class="bottom-border"></div>
@@ -190,7 +188,7 @@
       <v-container class="section4">
         <h2>GALLERY</h2>
         <v-row>
-          <v-col v-for="n in 4" :key="n" class="d-flex child-flex" cols="3">
+          <v-col v-for="n in 4" :key="n" class="d-flex child-flex" cols="4" md="3">
             <v-img
               :src="require(`../assets/${n}.jpg`)"
               aspect-ratio="1"
@@ -275,17 +273,16 @@ p {
   color: #ffffff;
 }
 .custom-btn .btn{
-  border-radius: 5em;
+  border-radius: 30px;
   padding-top: 10px;
 }
-
+.v-btn:not(.v-btn--round).v-size--default{
+  min-width: 15%;
+}
 .section3-content-text{
   padding-bottom: 20px;
   padding-left: 20px;
   font-weight:lighter;
-}
-.section3-content-img{
-  height:750px;
 }
 .section3-content-text h5{
   text-align: right;
