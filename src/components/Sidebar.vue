@@ -27,7 +27,7 @@
           <v-list-item-icon>
             <v-icon>mdi-home-city</v-icon>
           </v-list-item-icon>
-          <v-list-item-title @click="home">Home</v-list-item-title>
+          <v-list-item-title @click="home" >Home</v-list-item-title>
         </v-list-item>
         <v-list-item link>
           <v-list-item-icon>

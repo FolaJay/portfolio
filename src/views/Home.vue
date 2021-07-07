@@ -295,10 +295,8 @@ p {
 }
 .section4 h2 {
   color: #293e40;
-  font-size: 45px;
-  font-weight: 550;
-  padding-top: 30px;
   padding-bottom: 10px;
+  padding-top: 30px;
   text-align: center;
 }
 

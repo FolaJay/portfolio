@@ -1,7 +1,7 @@
 <template>
     <v-app>
         <v-container class="section5">
-          <h2>PHOTO SPEAK</h2>
+          <h2 class="heading">PHOTO SPEAK</h2>
           <v-row>
               <v-col cols="12" class="text-center custom-btn">
             <v-btn class="red lighten-1 btn">
@@ -10,7 +10,7 @@
               </router-link>
             </v-btn>
           </v-col>
-            <v-col v-for="n in 18" :key="n" class="d-flex child-flex" cols="4" md="3">
+            <v-col v-for="n in 18" :key="n" class="d-flex child-flex" cols="6" md="3">
               <v-img
                 :src="require(`../assets/${n}.jpg`)"
                 aspect-ratio="1"
@@ -46,9 +46,6 @@ export default {
 <style scoped>
 .section5 h2 {
   color: #293e40;
-  font-size: 45px;
-  font-weight: 550;
-  padding-top: 60px;
   padding-bottom: 10px;
   text-align: center;
 }
@@ -67,5 +64,10 @@ export default {
 }
 .v-btn:not(.v-btn--round).v-size--default{
   min-width: 15%;
+}
+@media only screen and (max-width: 600px) {
+  .heading{
+    font-size: 1.25rem;
+  }
 }
 </style>
