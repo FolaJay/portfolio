@@ -44,7 +44,7 @@ export default {
 }
 </script>
 <style scoped>
-.section5 h2 {
+.heading{
   color: #293e40;
   padding-bottom: 10px;
   text-align: center;
